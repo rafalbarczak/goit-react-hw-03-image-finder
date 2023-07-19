@@ -1,0 +1,11 @@
+.gallery {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-evenly;
+}
+.gallery img {
+  width: 520px;
+  height: 400px;
+}

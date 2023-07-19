@@ -1,0 +1,22 @@
+.searchbar {
+  background-color: #1af;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  box-shadow: 0 3px 3px #cdcdcd;
+}
+.input {
+  width: 350px;
+  height: 45px;
+  border-radius: 7px;
+  border-color: #dfdfdf;
+  outline: none;
+}
+.button {
+  width: 45px;
+  height: 45px;
+  border-radius: 5px;
+  background-color: #dedede;
+  cursor: pointer;
+  margin-right: 10px;
+}
